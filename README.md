@@ -17,9 +17,6 @@
   Control of a Formula Student-style autonomous car-like robot.
 - 🔧 [3DoF Gantry Crane Control](https://github.com/raffaele92/3DoF-GantryCrane-Control-SFOI-LQGI)  
   Control strategies (SFOI pole placement & LQGI) for oscillation suppression.
-  
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele92&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/raffaele-freschini-626354282)
