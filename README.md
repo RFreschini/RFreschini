@@ -19,7 +19,8 @@
   Control strategies (SFOI pole placement & LQGI) for oscillation suppression.
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-freschini-626354282)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/raffaele-freschini-626354282/)
+
 
 
 <!--
